@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="gMkqPlH_A6FbWqGvBuWD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMkqPlH_A6FbWqGvBuWD-0" target="gMkqPlH_A6FbWqGvBuWD-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMkqPlH_A6FbWqGvBuWD-0" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;integer : mangga, rumah, tetangga, sisa, orang &lt;/div&gt;&lt;div style=&quot;&quot;&gt;orangg1, orang2, orang3, jumlahMangga, jumlahOrang&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="199" y="110" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMkqPlH_A6FbWqGvBuWD-1" target="obYkecV_zn7gyNt0R_FH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMkqPlH_A6FbWqGvBuWD-1" value="INPUT :&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mangga, orang1, orang2, orang3,&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="234" y="240" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-0" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="362" y="40" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.46;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obYkecV_zn7gyNt0R_FH-0" target="gMkqPlH_A6FbWqGvBuWD-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="100" as="sourcePoint" />
+            <mxPoint x="410" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obYkecV_zn7gyNt0R_FH-2" target="obYkecV_zn7gyNt0R_FH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-2" value="mangga = mangga*2&lt;div&gt;sisa = jumlahmangga - jumlahorang&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="236" y="444.5" width="356" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obYkecV_zn7gyNt0R_FH-4" target="obYkecV_zn7gyNt0R_FH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obYkecV_zn7gyNt0R_FH-4" target="obYkecV_zn7gyNt0R_FH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-4" value="sisa &amp;gt;= 0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="670" width="136" height="144.5" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-6" value="output&lt;div&gt;sisa mangga&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="698.37" width="170" height="87.75" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-8" value="output&lt;div&gt;mangga yang dibeli kurang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326" y="936.75" width="176" height="83.25" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-10" value="YA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="712.25" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obYkecV_zn7gyNt0R_FH-11" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="858" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
